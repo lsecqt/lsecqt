@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @lsecqt
 ## I’m Penetration Tester and Youtube Content Creator
-### If you are willing to learn cyber security or share experience you can view my Youtube Channel (https://www.youtube.com/channel/UCFOc80iGpDdO1kMQHeVIFPQ)
+### If you are willing to learn cyber security or share experience you can view my Youtube Channel (https://www.youtube.com/c/Lsecqt)
 ### 📫 Also consider following me on Twitter: https://twitter.com/lsecqt
 
 <!---
